@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/qasob/drone_ws/install/setup.sh

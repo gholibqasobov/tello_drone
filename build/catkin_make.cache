@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/qasob/drone_ws/devel -DCMAKE_INSTALL_PREFIX=/home/qasob/drone_ws/install -G Unix Makefiles
